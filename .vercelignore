@@ -1,0 +1,3 @@
+# Local environment files may contain credentials; Vercel variables are managed in project settings.
+.env
+.env.*
